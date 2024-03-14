@@ -1,0 +1,46 @@
+.section_head{
+    background-color: #a5f5d0 ;
+    text-align: center;
+    font-size: xx-large;
+}
+
+#photo_head{
+   margin-left: auto;
+   margin-right: auto;
+   width: 20%;
+   display: block;
+    
+}
+
+
+.my_skills{
+    background-color: #a5f5d0;
+
+}
+
+
+.my_interests{
+    background-color: #a5f5d0;
+}
+
+
+.int_image{
+
+max-width: 450px;
+height: auto;
+margin-right: 20px;
+}
+
+
+.left{
+    display: flex;
+    justify-content: space-between;
+}
+
+.right{
+    flex-grow: 1;
+}
+
+.footer{
+    height: 35px;
+}
