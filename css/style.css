@@ -1,5 +1,5 @@
 .section_head{
-    background-color: #a5f5d0 ;
+    background-color: #E9F1FA;
     text-align: center;
     font-size: xx-large;
 }
@@ -13,15 +13,11 @@
 }
 
 
-.my_skills{
-    background-color: #a5f5d0;
+.background_color{
+    background-color: #E9F1FA;
 
 }
 
-
-.my_interests{
-    background-color: #a5f5d0;
-}
 
 
 .int_image{
